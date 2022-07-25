@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="{https://deepikasr4.github.io/recipe-page/}">
+    <a href="https://deepikasr4.github.io/recipe-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/DeepikaSR4/recipe-page}">
+    <a href="https://github.com/DeepikaSR4/recipe-page">
       Solution
     </a>
     <span> | </span>
-    <a href="{https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
