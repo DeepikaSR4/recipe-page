@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="{your-demo-link.your-domain}">
+    <a href="{https://deepikasr4.github.io/recipe-page/}">
       Demo
     </a>
     <span> | </span>
